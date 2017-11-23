@@ -1,0 +1,9 @@
+Title: Employee Locator
+By: Patrick Tarlit
+
+Summary: Basically this is an android application that allows every employee 
+         to track the location of their co-workers during work hours. If they 
+         need something to their co-worker(s) they can use the application to 
+         know the exact location of the employee that they're looking for. This
+         is benificial to the company, because they can monitor their employees 
+         if they're in the workplace or not.

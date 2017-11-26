@@ -7,3 +7,26 @@ Summary: Basically this is an android application that allows every employee
          know the exact location of the employee that they're looking for. This
          is benificial to the company, because they can monitor their employees 
          if they're in the workplace or not.
+         
+------------------------------------------------------------------------------------         
+
+Issue #1 from MrValdez. How to monetize?
+
+How are you planning to monetize this? 
+What steps are you going to take?
+Who are your target audience?
+
+- My target audience are employees & employers.
+- I am going to include advertisement in my application with the help of 
+  google adsense.
+
+----------------------------------------------------------------------------------
+
+Issue #2 from MrValdez. Privacy concerns.
+
+What privacy concerns, if any, are in your startup app?
+How would you answer those concerns when asked?
+How would you mitigate the concerns?
+
+- The application will only use during work hours. The users are not required to 
+  use it at home unless it needed.
